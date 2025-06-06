@@ -1549,7 +1549,7 @@ hr.fancy::before {
     font-family : var(--font-1);
     font-weight : 300;
     font-size   : var(--text-md);
-    line-height : var(--vspace-1_25);
+    line-height : var(--vspace-0_75);
     color       : var(--color-text-dark);
 }
 
