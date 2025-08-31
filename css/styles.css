@@ -3406,6 +3406,7 @@ img.u-pull-left {
     object-fit     : cover;
     margin         : 0;
     vertical-align : bottom;
+    width: 65%;
 }
 
 .about-info__text {
